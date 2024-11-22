@@ -36,7 +36,7 @@
 35;Luna Lovegood;Female;Student;Ravenclaw;Unknown;Hare;Human;Pure-blood or half-blood;Dirty-blonde;Pale silvery;Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry;Spotting Nargles;13 February, 1981;
 36;Gilderoy Lockhart;Male;Defence Against the Dark Arts(1992-1993);Ravenclaw;"9"" Cherry dragon heartstring";Non-corporeal;Human;Half-blood;Blond;Blue;Lord Voldemort;;26 January 1964;
 37;Filius Flitwick;Male;Professor of Charms | Head of Ravenclaw;Ravenclaw;Unknown;Non-corporeal;Human(goblin ancestry);Part-Goblin;White;Blue;Albus Dumbledore |Hogwarts School of Witchcraft and Wizardry;Charms;17 October 1958 or earlier ;
-38;Sybill Patricia Trelawney;Female;Professor of Divination;Ravenclaw;9 ½” hazel unicorn hair core;Non-corporeal;Human;Half-blood;Blond;Blue;Albus Dumbledore |Hogwarts School of Witchcraft and Wizardry;A Seer, though the gift is unpredictable and unconscious;9 March prior to 1962 ;
+38;Sybill Patricia Trelawney;Female;Professor of Divination;Ravenclaw;9 ½” hazel unicorn hair core;Non-corporeal;Human;Half-blood;Blond;Blue;Albus Dumbledore |Hogwarts School of Witchcraft and Wizardry;A Seer;9 March prior to 1962 ;
 39;Garrick Ollivander;Male;Wandmaker;Ravenclaw;"12¾"" Hornbeam dragon heartstring";Non-corporeal;Human;Half-blood;White;Silvery;Albus Dumbledore;An incomparable understanding of wandcraft;25 September, pre 1908;
 40;Myrtle Elizabeth Warren (Moaning Myrtle);Female;Student;Ravenclaw;Unknown;Unknown;Ghost;Muggle-born;Brown;Brown;Albus Dumbledore;;14 June 1928 -13 June 1929;13 June, 1943
 41;Padma Patil;Female;Student;Ravenclaw;Unknown;Non-corporeal;Human;Pure-blood or half-blood;Dark;Dark;Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry;Prefect; 1 September 1979 - 21 April 1980;
@@ -81,13 +81,13 @@
 80;Helena Ravenclaw;Female;Ravenclaw House Ghost;Ravenclaw;Unknown;Unknown;Ghost;Pure-blood or half-blood;Black;Grey;Hogwarts School of Witchcraft and Wizardry;;Post 982;996-1000
 81;Nymphadora Tonks;Female;Auror;Hufflepuff;Unknown;Jack rabbit, Wolf;Human;Half-blood;Variable;Variable;Ministry of Magic | Order of the Phoenix;Talented Auror, Metamorphmagus; 1 September 1972- 31 August 1973;2 May, 1998
 82;Pomona Sprout;Female;Professor of Herbology | Head of Hufflepuff House;Hufflepuff;Unknown;Non-corporeal;Human;Pure-blood or half-blood;Grey;Grey;Dumbledore's Army | Hogwarts School of Witchcraft and Wizardry | Order of the Phoenix;Herbology;15-may;
-83;Newton Scamander;Male;Employee in the Beast Division of the Department for the Regulation and Control of Magical Creatures;Hufflepuff;Unknown;Unknown;Human;Pure-blood or half-blood;Red brown;Blue;Albus Dumbledore | Hogwarts School of Witchcraft and Wizardry | Ministry of Magic;Magizoology, Order of Merlin, Second Class;24 February 1897;
+83;Newton Scamander;Male;Employee in the Beast Division of the Department for the Regulation and Control of Magical Creatures;Hufflepuff;Unknown;Unknown;Human;Pure-blood or half-blood;Red brown;Blue;Albus Dumbledore | Hogwarts School of Witchcraft and Wizardry | Ministry of Magic;Magizoology, Order of Merlin;24 February 1897;
 84;Cedric Diggory;Male;Student;Hufflepuff;"12¼"", Ash, unicorn hair";Unknown;Human;Pure-blood;Dark;Grey;Hogwarts School of Witchcraft and Wizardry;Skilled Seeker;1 September - 30 October 1977;24 June, 1995
 85;Justin Finch-Fletchley;Male;Student;Hufflepuff;Unknown;Non-corporeal;Human;Muggle-born;Red;;Dumbledore's Army;Charms;1 September 1979- 31 August 1980;
 86;Zacharias Smith;Male;Student;Hufflepuff;Unknown;Unknown;Human;Pure-blood or half-blood;Blonde;Brown;Dumbledore's Army;Chaser;1 September 1979 - 2 May 1981;
-87;Hannah Abbott;Female;Student;Hufflepuff;Unknown;Non-corporeal;Human;Half-blood;Blonde;Brown;Dumbledore's Army;Defensive spells, learned with Dumbledore's Army;1 September 1979 - 31 August 1980;
-88;Ernest Macmillan;Male;Student;Hufflepuff;Unknown;Boar;Human;Pure-blood;Blond;;Dumbledore's Army;Revising, being a Prefect, getting the wrong end of the stick;21 April 1980 - 31 August 1980;
-89;Susan Bones;Female;Student;Hufflepuff;Unknown;Unknown;Human;Half-blood;Red;Brown;Dumbledore's Army;Defensive spells, learned with Dumbledore's Army;1 September 1979 - 31 August 1980;
+87;Hannah Abbott;Female;Student;Hufflepuff;Unknown;Non-corporeal;Human;Half-blood;Blonde;Brown;Dumbledore's Army;Defensive spells;1 September 1979 - 31 August 1980;
+88;Ernest Macmillan;Male;Student;Hufflepuff;Unknown;Boar;Human;Pure-blood;Blond;;Dumbledore's Army;Revising, being a Prefect;21 April 1980 - 31 August 1980;
+89;Susan Bones;Female;Student;Hufflepuff;Unknown;Unknown;Human;Half-blood;Red;Brown;Dumbledore's Army;Defensive spells;1 September 1979 - 31 August 1980;
 90;Walden Macnair;Male;Executioner for the Committee for the Disposal of Dangerous Creatures;Slytherin;Unknown;Unknown;Human;Pure-blood or half-blood;Black;Black;Lord Voldemort  | Death Eaters;Liaising with giants;In or before 1970s;
 91;Augustus Rookwood;Male;Unspeakable;Slytherin;Unknown;None;Human;Pure-blood or half-blood;Brown/greying;;Lord Voldemort  | Death Eaters;Spying for Lord Voldemort;pre 1964;
 92;Antonin Dolohov;Male;Death Eater;Slytherin;Unknown;None;Human;Pure-blood or Half-blood;Dark;Black;Lord Voldemort  | Death Eaters;Duelling. Fought and killed Molly Weasley's brothers and Remus Lupin;pre 1950;
@@ -103,7 +103,7 @@
 102;Amos Diggory;Male;Employee of the Department for the Regulation and Control of Magical Creatures;Hufflepuff;Unknown;Non-corporeal;Human;Pure-blood or half-blood;Brown;Ruddy;Minister of Magic;Works for the Department for the Regulation and Control of Magical Creatures;;
 103;Dedalus Diggle;Male;;;Unknown;Non-corporeal;Human;Pure-blood or half-blood;;;Order of the Phoenix;An enthusiastic volunteer for the Order and a helpful escort for Harry and his relatives;Pre 1964;
 104;Elphias Doge;Male;Special Advisor to the Wizengamot;;Unknown;Non-corporeal;Human;Pure-blood;Silver;Grey/Blue[;Order of the Phoenix;Writing; 1 September 1880 - 31 August 1881;
-105;Fleur Isabelle Delacour;Female;Part-time at Gringotts Wizarding Bank;Beauxbatons Academy of Magic;"9½"", Rosewood, veela hair";Non-corporeal;Human;Quarter-Veela;Silvery-blonde;Dark blue[;Order of the Phoenix;part Veela, and therefore possesses some of their magical powers. She was also selected to compete in the Triwizard Tournament;Pre 30 October, 1977;
+105;Fleur Isabelle Delacour;Female;Part-time at Gringotts Wizarding Bank;Beauxbatons Academy of Magic;"9½"", Rosewood, veela hair";Non-corporeal;Human;Quarter-Veela;Silvery-blonde;Dark blue[;Order of the Phoenix;part Veela and therefore possesses some of their magical powers. She was also selected to compete in the Triwizard Tournament;Pre 30 October, 1977;
 106;Aberforth Dumbledore;Male;Owner and Barman of the Hog's Head Inn;Gryffindor;Unknown;Goat;Human;Half-blood;Grey;Bright Blue;Order of the Phoenix;Bartending, caring for Ariana; 1 September 1883-31 August 1884;
 107;Mundungus Fletcher;Male;Dealer of wizarding artifacts;;Unknown;Non-corporeal;Human;Half-blood[;Ginger;Brown;Order of the Phoenix;Gathering information for the Order, dealing in stolen cauldrons, 'acquiring' the odd Muggle car;Before 1962;
 108;Sturgis Podmore;Male;Advance Guard;;Unknown;Unknown;Human;Pure-blood or half-blood;Straw-coloured;Brown;Order of the Phoenix;Carrying out guard duty for the Order; 8 September 1956 - 7 September 1957;
@@ -115,7 +115,7 @@
 114;Edgar Bones;Male;;Hufflepuff;Unknown;Unknown;Human;Pure-blood or half-blood;Reddish-brown;Grey;Original Order of the Phoenix;Said to be a great wizard;;1981
 115;Dorcas Meadowes;Female;;Hufflepuff;Unknown;Unknown;Human;Half-blood;Black;Brown;Original Order of the Phoenix;Herbology;;1981
 116;Benjy Fenwick;Male;;Ravenclaw;Unknown;Unknown;Human;Half-blood;Black;Black;Original Order of the Phoenix;;;1981
-117;Madame Olympe Maxime;Female;Headmistress of Beauxbatons Academy of Magic;Beauxbatons Academy of Magic;Unknown;Unknown;Half-Human/Half-Giant;Part-Human (Half-giant);Brown;Black;Beauxbatons Academy of Magic;An ‘excellent dancer’, in the words of Dumbledore himself;;
+117;Madame Olympe Maxime;Female;Headmistress of Beauxbatons Academy of Magic;Beauxbatons Academy of Magic;Unknown;Unknown;Half-Human/Half-Giant;Part-Human (Half-giant);Brown;Black;Beauxbatons Academy of Magic;An ‘excellent dancer’;;
 118;Gabrielle Delacour;Female;Student;Beauxbatons Academy of Magic;Unknown;Unknown;Human ;Quarter-Veela;Silvery-blonde;Blue;Beauxbatons Academy of Magic;part Veela and therefore may possess some of their magical powers; 31 July 1985 - 30 July 1986;
 119;Viktor Krum;Male;Seeker for the Bulgarian National Quidditch team;Durmstrang Institute;"10¼"", Hornbeam, dragon heartstring";Unknown;Human ;Pure-blood or half-blood;Dark;Dark;Durmstrang Institute;One of the best Seekers in the world;April-August, 1976;
 120;Petunia Dursley;Female;Housewife;;No;No;Human ;Muggle;Blonde;Pale;Family;;Pre 1960;
