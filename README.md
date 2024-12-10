@@ -11,10 +11,7 @@
 8. [Contact](#contact)  
 
 ## **Project Overview**  
-This project uses data science and machine learning to the Harry Potter universe. It features:
-This project uses data science and machine learning analyze and classify characters from the Harry Potter series into one of the four Hogwarts
- houses: **Gryffindor**, **Hufflepuff**, **Ravenclaw**, or **Slytherin**. Additionally, it applies facial recognition techniques 
- to identify characters. 
+This project uses data science and machine learning analyze and classify characters from the Harry Potter series into one of the four Hogwarts houses: **Gryffindor**, **Hufflepuff**, **Ravenclaw**, or **Slytherin**. Additionally, it applies facial recognition techniques to identify characters. 
 
 ## **Features**  
 - **Multiclass Classification**: Assign characters to Gryffindor, Hufflepuff, Ravenclaw, or Slytherin.  
@@ -26,11 +23,11 @@ This project uses data science and machine learning analyze and classify charact
 - Models:  
   - Logistic Regression  
   - Support Vector Machine (SVM)  
-  - Random Forest (best-performing model with ~69% accuracy)  
+  - Random Forest (best-performing model with 0.69 f1_score)  
   - Gradient Boosting Classifier  
   - Decision Tree Classifier  
 - Metrics:
-  - F1-Score: 0.69 (using Random Forest)  
+  - F1_score: 0.69 (using Random Forest)  
   - Analysis: Confusion matrix, ROC curves, PR curve  
 
 ### **Facial Recognition**  
@@ -41,7 +38,7 @@ This project uses data science and machine learning analyze and classify charact
 ## **Results**  
 
 ### House Classification:  
-- F1_score by House:  
+- Correct predictions for each House:  
   - Gryffindor: 77%  
   - Slytherin: 81%  
   - Hufflepuff: 54%  
@@ -62,8 +59,6 @@ This project uses data science and machine learning analyze and classify charact
 2. Upload the CSV file with character data (e.g., `Characters.csv`).  
 3. Run all the cells, and the predicted house for each character will be printed directly below the cell.  
 
----
-
 ### **2. Facial Recognition**  
 #### Input:  
 - A facial image in `.jpg` or `.png` format.  
@@ -72,8 +67,6 @@ This project uses data science and machine learning analyze and classify charact
 1. Open the Jupyter Notebook and navigate to the corresponding cell for facial recognition.  
 2. Upload the image of the character you want to identify.  
 3. Run the cell, and the name of the recognized character and confidence score will appear below the cell.  
-
----
 
 ## **Requirements**  
 - **Programming Language**: Python 3.10  
