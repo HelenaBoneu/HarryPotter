@@ -1,52 +1,96 @@
 # **Harry Potter: House Classification and Character Face Recognition**
 
-## **Project Overview**
-This project uses data science to analyze and classify characters from the Harry Potter series into one of the four Hogwarts houses: **Gryffindor**, **Hufflepuff**, **Ravenclaw**, or **Slytherin**. Additionally, it applies facial recognition techniques to identify characters using facial images.
+## **Table of Contents**  
+1. [Project Overview](#project-overview)  
+2. [Features](#features)  
+3. [Techniques and Models](#techniques-and-models)  
+4. [Results](#results)  
+5. [Usage](#usage)  
+6. [Requirements](#requirements)  
+7. [Future Work](#future-work)  
+8. [Contact](#contact)  
 
-### Main Components:
-1. **House Classification**:
-   - Implemented models: LogisticRegression, SVM, Random Forest, Gradient Boosting Classifier and Decision Tree Classifier
-   - Average accuracy using Random Forest: ~69%.
-   - Analyses: F1-Score, confusion matrices, ROC curves and PR curve.
+## **Project Overview**  
+This project uses data science and machine learning to the Harry Potter universe. It features:
+This project uses data science and machine learning analyze and classify characters from the Harry Potter series into one of the four Hogwarts
+ houses: **Gryffindor**, **Hufflepuff**, **Ravenclaw**, or **Slytherin**. Additionally, it applies facial recognition techniques 
+ to identify characters. 
 
-2. **Facial Recognition**:
-   - Techniques used: **Histogram of Oriented Gradients (HOG)** and **Local Binary Patterns (LBP)**.
-   - HOG outperformed LBP in capturing global facial features.
+## **Features**  
+- **Multiclass Classification**: Assign characters to Gryffindor, Hufflepuff, Ravenclaw, or Slytherin.  
+- **Facial Feature Extraction**: Identify characters from facial images using HOG and LBP techniques.  
 
-## **Features**
-- **Multiclass classification**: Assign characters to one of the four Hogwarts houses.
-- **Facial feature extraction**: Identify characters through facial analysis.
+## **Techniques and Models**  
 
-## **Usage**
-1. **House Classification**:
-   - Provide a CSV file with character features.
-   - The model will assign each character to a house.
+### **House Classification**  
+- Models:  
+  - Logistic Regression  
+  - Support Vector Machine (SVM)  
+  - Random Forest (best-performing model with ~69% accuracy)  
+  - Gradient Boosting Classifier  
+  - Decision Tree Classifier  
+- Metrics:
+  - F1-Score: 0.69 (using Random Forest)  
+  - Analysis: Confusion matrix, ROC curves, PR curve  
 
-2. **Facial Recognition**:
-   - Upload a facial image.
-   - The script will identify the character based on HOG and LBP techniques.
+### **Facial Recognition**  
+- Methods:  
+  - **Histogram of Oriented Gradients (HOG)**: Captures global facial structures, with 86% accuracy.  
+  - **Local Binary Patterns (LBP)**: Focuses on local texture patterns, with 75% accuracy.  
 
-## **Results**
-### House Classification:
-- **Accuracy by house**:
-  - Gryffindor: 77%
-  - Slytherin: 81%
-  - Hufflepuff: 54%
-  - Ravenclaw: 52%
-  
-- **Overall evaluation**:
-  - F1-Score: 0.69
+## **Results**  
 
-### Facial Recognition:
-- HOG outperformed LBP in overall accuracy.
-- **HOG**:
-    - Accuracy: 0.86
-- **LBP**:
-    - Accuracy: 0.75
+### House Classification:  
+- F1_score by House:  
+  - Gryffindor: 77%  
+  - Slytherin: 81%  
+  - Hufflepuff: 54%  
+  - Ravenclaw: 52%  
 
-## **Contact**
-Created by: [Helena Boneu]
-Email: helenaboneu@gmail.com
+### Facial Recognition:  
+- HOG Accuracy: 86%  
+- LBP Accuracy: 75%  
 
-Created by: [Nerea de la Torre]
-Email: nereadelatorre2004@gmail.com
+## **Usage**  
+
+### **1. House Classification**  
+#### Input:  
+- A CSV file containing character traits.  
+
+#### Steps:  
+1. Open the Jupyter Notebook and navigate to the corresponding cell for house classification.  
+2. Upload the CSV file with character data (e.g., `Characters.csv`).  
+3. Run all the cells, and the predicted house for each character will be printed directly below the cell.  
+
+---
+
+### **2. Facial Recognition**  
+#### Input:  
+- A facial image in `.jpg` or `.png` format.  
+
+#### Steps:  
+1. Open the Jupyter Notebook and navigate to the corresponding cell for facial recognition.  
+2. Upload the image of the character you want to identify.  
+3. Run the cell, and the name of the recognized character and confidence score will appear below the cell.  
+
+---
+
+## **Requirements**  
+- **Programming Language**: Python 3.10  
+- **Libraries**:  
+  - `scikit-learn`  
+  - `numpy`  
+  - `matplotlib`  
+  - `opencv-python`  
+
+## **Future Work**  
+- Improve model performance and accuracy across all houses by expanding the dataset with additional character traits and features, especially for houses like Hufflepuff and Ravenclaw that currently have less representation. 
+- Improve facial recognition accuracy by incorporating a larger and more diverse dataset of character images, including varying expressions, angles, and lighting conditions.
+
+## **Contact**  
+
+**Helena Boneu**  
+- Email: helenaboneu@gmail.com  
+
+**Nerea de la Torre**  
+- Email: nereadelatorre2004@gmail.com  
